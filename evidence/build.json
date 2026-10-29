@@ -1,0 +1,24 @@
+{
+  "status": "built",
+  "slug": "bardella-says",
+  "subject": "Jordan Bardella",
+  "handle": "J_Bardella",
+  "posts": 353,
+  "months": 3,
+  "days": 59,
+  "html_pages": 418,
+  "sitemap_leaves": [
+    {
+      "file": "sitemap-main.xml",
+      "urls": 65
+    },
+    {
+      "file": "sitemap-posts-01.xml",
+      "urls": 353
+    }
+  ],
+  "home_corpus_requests": 0,
+  "monthly_sample": 50,
+  "content_mode": "official_embeds",
+  "portrait_sha256": null
+}

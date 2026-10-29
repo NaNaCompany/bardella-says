@@ -1,0 +1,22 @@
+{
+  "slug": "bardella-says",
+  "name": "Bardella Says",
+  "wordmark": "BARDELLA",
+  "subject": "Jordan Bardella",
+  "handle": "J_Bardella",
+  "initials": "JB",
+  "color": "#526d86",
+  "profile": "https://x.com/J_Bardella",
+  "origin": "https://nanalab.kr/bardella-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}

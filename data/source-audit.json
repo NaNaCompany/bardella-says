@@ -1,0 +1,231 @@
+{
+  "slug": "bardella-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 353,
+  "first": "2026-08-14",
+  "last": "2026-10-28",
+  "exact_time": 353,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "failures": [],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies",
+      "sha256": "0ca1ee15d03b4efe6b9e652a732aa987aa44ef374e1b69d6ea2f1f0d451af6e7",
+      "timeline_items": 20,
+      "accepted": 17,
+      "excluded": {
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__-sLAAIAAAATMjExNDM4MDUxNTcxNzU1NDMzNQgAAwAAAAIAAA",
+      "sha256": "56d740bec71b561148388afb91c9b45e88eade276f916e7c3cdbfa5890f45f60",
+      "timeline_items": 21,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__9cLAAIAAAATMjExNDA1NTQxNjUyNzEzMDg2NwgAAwAAAAIAAA",
+      "sha256": "23f38af9be139f10ab350633df3a0a122f10c694b7861dfeb6c466ed0383c73e",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__8MLAAIAAAATMjExMjIwNDAwOTAwMzk1NDUwMwgAAwAAAAIAAA",
+      "sha256": "207f011ce8e7f31a52c97ae2ec5e61589ece087c57fb602bd500b9689b9db693",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__68LAAIAAAATMjExMjA3NTQzOTMyNTcyMDczMwgAAwAAAAIAAA",
+      "sha256": "1ded13cf20585c3cf8b628775e0550d1c1e98f6d8147ea4c575d533854baa8ae",
+      "timeline_items": 21,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__5sLAAIAAAATMjExMTA4ODk0NjkwMTg4NDk5NggAAwAAAAIAAA",
+      "sha256": "3fda3c7b757f864346b9ae12e285042bfd3f954cd10774f01357d61cea4fe9d5",
+      "timeline_items": 21,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__4cLAAIAAAATMjEwOTkzOTMxNjc1MTI3MDA1OQgAAwAAAAIAAA",
+      "sha256": "edd03de938076c83dc93a4f25903524a91216d1c298efae35aea9e18978b001d",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__3MLAAIAAAATMjEwOTYwMzEzODQxNjEzNjYyMAgAAwAAAAIAAA",
+      "sha256": "068e4796f5e628c50d924454c60391a77112caaf93a2800a6fef4e50627c19c9",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__18LAAIAAAATMjEwODI4MzYxOTUzODAxMDU3NAgAAwAAAAIAAA",
+      "sha256": "002d7f0e54be5287ae41d9795786c12be68629488e0c9c229882455e69cfed95",
+      "timeline_items": 21,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__0sLAAIAAAATMjEwNzQyNzIwODc0NjY2ODEzOAgAAwAAAAIAAA",
+      "sha256": "0c3c882f112c84b5ad56cd8f72235d493049c5d6eb22dfba87b316d184b4aa09",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__zcLAAIAAAATMjEwNDY0Nzc3MzE0NDQ2NTkwMAgAAwAAAAIAAA",
+      "sha256": "fd1735750ca13c85d9fb70cae4926133c3f59a5a4782256537e1a41963b0cbee",
+      "timeline_items": 21,
+      "accepted": 15,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 5
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__yMLAAIAAAATMjEwMTY2MjM1ODIyNTQ2NTY1NQgAAwAAAAIAAA",
+      "sha256": "52d2dff371593a30375d59d12c623483ee8ad44c0e8193e4898b381404c727af",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__w8LAAIAAAATMjEwMDY3Nzc5ODA4ODA0OTEyOAgAAwAAAAIAAA",
+      "sha256": "3070d238ba9adf7bed0b05c43704140358d5344e47be4dd973e4379fd416b8d1",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__vsLAAIAAAATMjA5OTQ5MDIyNDg5MTk5MDExOQgAAwAAAAIAAA",
+      "sha256": "a14e56aa41f0caae7310d9fdcdb48d69a258a8a44b45a72327aafd352168eab5",
+      "timeline_items": 21,
+      "accepted": 14,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 6
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__ucLAAIAAAATMjA5ODA3NzUzOTc2MzcwMzkzMAgAAwAAAAIAAA",
+      "sha256": "0932c0711cb27a99dd95dc80cdfa7075ad977ca2adf509ac01775b118859068f",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__tMLAAIAAAATMjA5Njk0ODk4ODc4ODIxMTk1OQgAAwAAAAIAAA",
+      "sha256": "a9133cc8dfeb77c9ffd2c0446a65fcff2659d09ce9bcb5dc9ef7c08ae802dd0b",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__r8LAAIAAAATMjA5NjIxNjQyNDc2NzE2NDg4MwgAAwAAAAIAAA",
+      "sha256": "f426315fcc3d73cf330e9f910a07b7ba9056d2574b3bdc4a23a1462f44c3c28f",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__qsLAAIAAAATMjA5NTkxMDM4MzE3MzIwMjEwOAgAAwAAAAIAAA",
+      "sha256": "6ea3cec92aa7d59c8a7c13383d75e6a19f70f217c65fc902c19b261534b6969e",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__pcLAAIAAAATMjA5NDQyOTQxMzI2NTgwMTMxMwgAAwAAAAIAAA",
+      "sha256": "3a2bc4346c158dbe502372b27adbf3cf7e6ee8a994cae9040332a91b1556ce22",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/J_Bardella/with_replies?cursor=DAAHCgABHVwY9qc__oMLAAIAAAATMjA5MzY1MTIzOTE5NjE1MjIyMQgAAwAAAAIAAA",
+      "sha256": "1010c819f9ea8bfaafc1369d0f642de4785b313407406f495d08af8938e83c10",
+      "timeline_items": 20,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    }
+  ],
+  "excluded": {
+    "repost": 46,
+    "missing-author-or-permalink": 19
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand."
+}
