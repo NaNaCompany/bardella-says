@@ -6,11 +6,11 @@
   "posts": 353,
   "months": 3,
   "days": 59,
-  "html_pages": 418,
+  "html_pages": 432,
   "sitemap_leaves": [
     {
       "file": "sitemap-main.xml",
-      "urls": 65
+      "urls": 79
     },
     {
       "file": "sitemap-posts-01.xml",
@@ -20,5 +20,5 @@
   "home_corpus_requests": 0,
   "monthly_sample": 50,
   "content_mode": "official_embeds",
-  "portrait_sha256": null
+  "portrait_sha256": "d89452da32e97668a3827ad34fba9f412055cc5fb53d2074102a00be9af938c6"
 }
